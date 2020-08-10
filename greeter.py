@@ -1,4 +1,4 @@
 def main():
-  print("Ehlo World!")
+  print("Hello Data Science!")
   
 main()
